@@ -1,4 +1,4 @@
-![](https://github.com/djordjevlais/popthebubble/blob/gh-pages/popthebubble-logo.svg)
+![](https://github.com/djordjevlais/popthebubble/blob/gh-pages/popthebubble-logo.png)
 
 # Pop The Bubble
 Pop The Bubble is a list of websites where you can volunteer as a designer or developer.
