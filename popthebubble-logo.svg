@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="100px" viewBox="0 0 116 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>popthebubble-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-7-Plus" transform="translate(-149.000000, -35.000000)">
+            <g id="popthebubble-logo" transform="translate(152.000000, 38.000000)">
+                <g id="Group-4" transform="translate(0.000000, 51.000000)" stroke="#000000" stroke-width="5">
+                    <ellipse id="Oval" cx="22" cy="21.5" rx="22" ry="21.5"></ellipse>
+                    <path d="M24.2528736,35.75 C24.2528736,26.7753728 16.7806604,19.5 7.56321839,19.5" id="Oval" stroke-linecap="round" transform="translate(15.908046, 27.625000) scale(1, -1) rotate(-90.000000) translate(-15.908046, -27.625000) "></path>
+                </g>
+                <g id="Group-5" transform="translate(51.000000, 0.000000)">
+                    <path d="M29,0 L29,12" id="Path-2" stroke="#000000" stroke-width="5" stroke-linecap="round"></path>
+                    <path d="M29,39 L29,51" id="Path-2" stroke="#000000" stroke-width="5" stroke-linecap="round"></path>
+                    <path d="M0,25 L12,25" id="Path-2" stroke="#000000" stroke-width="5" stroke-linecap="round"></path>
+                    <path d="M12,9 L17.6568542,14.6568542" id="Path-2" stroke="#000000" stroke-width="5" stroke-linecap="round"></path>
+                    <path d="M11,35.8284271 L16.6568542,41.4852814" id="Path-2" stroke="#000000" stroke-width="5" stroke-linecap="round" transform="translate(13.828427, 38.656854) scale(1, -1) translate(-13.828427, -38.656854) "></path>
+                    <path d="M47,25 L59,25" id="Path-2" stroke="#000000" stroke-width="5" stroke-linecap="round" transform="translate(53.000000, 25.500000) scale(-1, 1) translate(-53.000000, -25.500000) "></path>
+                    <path d="M40.8284271,9 L46.4852814,14.6568542" id="Path-2" stroke="#000000" stroke-width="5" stroke-linecap="round" transform="translate(43.656854, 11.828427) scale(-1, 1) translate(-43.656854, -11.828427) "></path>
+                    <path d="M40.8284271,35.8284271 L46.4852814,41.4852814" id="Path-2" stroke="#000000" stroke-width="5" stroke-linecap="round" transform="translate(43.656854, 38.656854) scale(-1, -1) translate(-43.656854, -38.656854) "></path>
+                    <circle id="Oval-7" fill="#000000" cx="29.5" cy="25.5" r="4.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
